@@ -18,7 +18,7 @@ GroningenPHP
 - 1e donderdag van de maand
  
 SweetlakePHP
-- 1e vrijdag van de maand
+- 1e vrijdag van de maand (tijdelijke(?) hiatus)
  
 PHPAmersfoort:
 - 2e dinsdag van de maand
